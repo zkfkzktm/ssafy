@@ -7,5 +7,18 @@ git config --global user.name "이름"
 a.txt 만드시고 저장하시고....log확인해보고
 add, commit 할 때 log 확인해보고... commit 까지 하기
 
+vi  편집모드     ==>(ESC)    명령어 모드
+    명령어 모드 ==>(I)        편집모드
+:wq   저장하고 나가기 
+:q!    변경사항 저장하지 않고 나가기
+:q  나가기 
+
+
+
+
+
+
+
+
 
 
