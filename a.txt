@@ -1,0 +1,11 @@
+git log --oneline (커밋 로그 확인)
+git status (git 현재 상태 확인)
+git add <file이름> : 변경사항을 stage area로 이동
+git commit -m "커밋 메시지"
+git config --global user.email "email@email.com"
+git config --global user.name "이름"
+a.txt 만드시고 저장하시고....log확인해보고
+add, commit 할 때 log 확인해보고... commit 까지 하기
+
+
+
