@@ -12,11 +12,13 @@ vi  편집모드     ==>(ESC)    명령어 모드
 :wq   저장하고 나가기 
 :q!    변경사항 저장하지 않고 나가기
 :q  나가기 
+git remote add origin https://github.com/zkfkzktm/ssafy.git
+master
+git push origin master
+(origin 이라는 이름의 원격저장소에 master branch를 업로드 함)
 
-
-
-
-
+여기에 바로 작업하시면 됩니다. 
+그러면 추가적으로 이력관리가 됩니다. 
 
 
 
