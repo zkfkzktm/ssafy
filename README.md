@@ -37,7 +37,7 @@
 print('Hello')
 ```
 
-![image.jpg](image.jpg)
-파일 자체에 이미지가 들어가는게 아닙니다!
+![image.jpg](./imgs/image.jpg)
+파일 자체에 이미지가 들어가는게 아닙니다!11
 참조만 합니다. 만약에 이미지가 포함된 markdown을 제출 할때는
 이미지도 같이 제출해야 합니다. 
